@@ -26,7 +26,9 @@
 - [`PixLab Insight`](https://pixlab.io)
 
 ## To run locally
+
 - run the following commands
+
 ```code
 # clone
 git clone https://github.com/hesbon-osoro/face-auth.git
