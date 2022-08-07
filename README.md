@@ -3,9 +3,11 @@
 [Demo](https://face-auth.netlify.app/)
 
 [![Face-Auth UI](src/assets/face-auth.png)](https://face-auth.netlify.app/)
+
 ## Face Capture
 
 [![Face capture](src/assets/face-auth1.png)](https://face-auth.netlify.app/)
+
 ## Verification
 
 [![Verification](src/assets/face-auth2.png)](https://face-auth.netlify.app/)
