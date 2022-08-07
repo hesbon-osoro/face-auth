@@ -1,22 +1,22 @@
 # Face-Auth
 
-![Face-Auth UI](src/assets/face-auth.png)
+[Demo](https://face-auth.netlify.app/)
 
+[![Face-Auth UI](src/assets/face-auth.png)](https://face-auth.netlify.app/)
 ## Face Capture
 
-![Face capture](src/assets/face-auth1.png)
-
+[![Face capture](src/assets/face-auth1.png)](https://face-auth.netlify.app/)
 ## Verification
 
-![Verification](src/assets/face-auth2.png)
+[![Verification](src/assets/face-auth2.png)](https://face-auth.netlify.app/)
 
 ## Pin Code Capture
 
-![Pin Capture](src/assets/face-auth3.png)
+[![Pin Capture](src/assets/face-auth3.png)](https://face-auth.netlify.app/)
 
 ## Success
 
-![Success](src/assets/face-auth4.png)
+[![Success](src/assets/face-auth4.png)](https://face-auth.netlify.app/)
 
 ## Technologies
 
