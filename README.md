@@ -25,6 +25,19 @@
 - [`FaceIO (fio.js)`](https://faceio.net/getting-started)
 - [`PixLab Insight`](https://pixlab.io)
 
+## To run locally
+- run the following commands
+```code
+# clone
+git clone https://github.com/hesbon-osoro/face-auth.git
+
+# install node_modules
+cd face-auth && yarn
+
+# run app
+yarn dev
+```
+
 ## Facial recognition authentication
 
 Facial recognition is one of the latest authentication techniques, and many developers are adopting it these days. Facial recognition reduces the hassle of entering your email-password or any other user credentials to log in to a web application.
