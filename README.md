@@ -3,15 +3,19 @@
 ![Face-Auth UI](src/assets/face-auth.png)
 
 ## Face Capture
+
 ![Face capture](src/assets/face-auth1.png)
 
 ## Verification
+
 ![Verification](src/assets/face-auth2.png)
 
 ## Pin Code Capture
+
 ![Pin Capture](src/assets/face-auth3.png)
 
 ## Success
+
 ![Success](src/assets/face-auth4.png)
 
 ## Technologies
